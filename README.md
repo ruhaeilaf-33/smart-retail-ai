@@ -79,7 +79,3 @@ Product, Quantity, Price, Date
 ## 👨‍💻 Author
 
 Ruha Eilaf
-
-```
-
----

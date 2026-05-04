@@ -59,7 +59,6 @@ smart_retail_ai/
 ## ⚙️ Installation & Setup
 
 ### Clone the repository
-```bash
 git clone https://github.com/ruhaeilaf-33/smart-retail-ai.git
 cd smart-retail-ai
 

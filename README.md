@@ -1,10 +1,8 @@
 
-````markdown
 # 📊 Retail Intelligence System
 
 A simple AI-powered dashboard to analyze retail sales data, visualize trends, and provide business insights.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +12,6 @@ A simple AI-powered dashboard to analyze retail sales data, visualize trends, an
 - AI chatbot for business suggestions
 - CSV file upload for analysis
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +21,6 @@ A simple AI-powered dashboard to analyze retail sales data, visualize trends, an
 - Plotly
 - Scikit-learn
 
----
 
 ## ⚙️ Setup
 
@@ -48,7 +44,6 @@ Create a `.env` file and add:
 GROQ_API_KEY=your_api_key_here
 ```
 
----
 
 ## ▶️ Run the Project
 
@@ -56,7 +51,6 @@ GROQ_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
----
 
 ## 📊 Input Format
 
@@ -64,7 +58,6 @@ streamlit run app.py
 Product, Quantity, Price, Date
 ```
 
----
 
 ## 💡 Output
 
@@ -74,7 +67,6 @@ Product, Quantity, Price, Date
 * Sales trends
 * AI-based suggestions
 
----
 
 ## 👨‍💻 Author
 
